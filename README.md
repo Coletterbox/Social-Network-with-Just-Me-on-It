@@ -19,7 +19,7 @@ You may contact me directly, physically see me and speak to me in person. You ma
 ### FAQ
 
 #### Is this really the best use of your time?
-Fuck off.
+...
 
 #### This seems like an excellent and useful idea and also you are very smart.
 Thank you, but that's not a question.
