@@ -29,3 +29,5 @@ Thank you, but that's not a question.
 ### To Do:
 
 - [ ] Think of a name... I was kind of thinking of a Colette/connection pun. Puns aren't my forte.
+
+![](https://media.giphy.com/media/l2RnEAqrApOZixkpG/giphy.gif)
